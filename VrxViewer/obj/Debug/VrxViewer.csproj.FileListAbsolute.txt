@@ -1,0 +1,11 @@
+C:\projects\mersedes_vrx\VrxViewer\bin\Debug\VrxViewer.exe.config
+C:\projects\mersedes_vrx\VrxViewer\bin\Debug\VrxViewer.exe
+C:\projects\mersedes_vrx\VrxViewer\bin\Debug\VrxViewer.pdb
+C:\projects\mersedes_vrx\VrxViewer\obj\Debug\VrxViewer.csproj.AssemblyReference.cache
+C:\projects\mersedes_vrx\VrxViewer\obj\Debug\VrxViewer.csproj.SuggestedBindingRedirects.cache
+C:\projects\mersedes_vrx\VrxViewer\obj\Debug\VrxViewer.MainForm.resources
+C:\projects\mersedes_vrx\VrxViewer\obj\Debug\VrxViewer.Properties.Resources.resources
+C:\projects\mersedes_vrx\VrxViewer\obj\Debug\VrxViewer.csproj.GenerateResource.cache
+C:\projects\mersedes_vrx\VrxViewer\obj\Debug\VrxViewer.csproj.CoreCompileInputs.cache
+C:\projects\mersedes_vrx\VrxViewer\obj\Debug\VrxViewer.exe
+C:\projects\mersedes_vrx\VrxViewer\obj\Debug\VrxViewer.pdb
